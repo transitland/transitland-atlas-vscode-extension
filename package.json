@@ -1,6 +1,9 @@
 {
   "name": "transitland-atlas-vscode-extension",
   "displayName": "Transitland Atlas DMFR",
+  "repository": {
+    "url": "https://github.com/transitland/transitland-atlas-vscode-extension"
+  },
   "license": "GPL-3.0",
   "description": "",
   "version": "0.0.1",
