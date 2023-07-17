@@ -23,7 +23,7 @@ yarn run package
 To install the extension:
 
 ```sh
-code --install-extension transitland-atlas-vscode-extension-0.0.1.vsix
+code --install-extension transitland-atlas-vscode-extension-0.0.2.vsix
 ```
 
 Perhaps in the future we'll publish this to the Visual Studio Code extension marketplace.
